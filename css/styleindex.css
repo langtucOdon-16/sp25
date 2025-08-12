@@ -1,0 +1,181 @@
+.text-blue {
+    color:#2676a3;
+}
+.text-center{
+    text-align: center;
+}
+.text-orange {
+    color: orange;
+}
+.text-light{
+    color: #b0ccc9;
+}
+#header-button{
+    background-color: orange;
+    color: white;
+    margin-left: 3px;
+}
+#vien{
+    margin:0px;
+}
+#tmp{
+    margin-right: 6px;
+}
+.content-head {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #b0ccc9 ;
+    margin: 0px;
+    
+}
+#content-header {
+    display: flex;
+    justify-content: space-between; 
+    margin-bottom: 10px;
+}
+.head{
+    display: flex;
+}
+.content-menu a {
+    text-decoration: none;
+    color: #82B8BC;
+    padding:0px;
+    margin:0px
+}
+.content-menu li {
+    list-style-type: none;
+    margin: 0 10px;
+}
+.fullwidth{
+    width:100%;
+}
+#menu{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap:10px;
+    padding:20px;
+}
+#menu h1{
+    padding-top: 10px;
+}
+#menu .img{
+    display: flex;
+    flex-wrap: wrap;
+    width: 50%; 
+    height: 85%;
+}
+.img .img-up{
+    width: 99%;
+}
+.img .img-down{
+    width:47%;
+    height: 80%;
+}
+.img-up img{
+    width: 90%;
+    height: 95%;
+    padding-top: 15px;
+}
+.img-down img{
+    width: 94%;
+    height: 95%;
+}
+
+#menu .des{
+    width: 48%;
+    height: 100%;
+    position: relative;
+}
+.des h2{
+    font-size: 25px;
+    margin-top: 22px;
+}
+.des p{
+    font-size: 20px;
+}
+.gifts{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap:20px;
+    width:80%;
+    height: 100%;
+    padding-top: 16px;
+}
+
+.item{
+    width: 48%;
+}
+.item img{
+    width:60%;
+}
+/* NEW YEAR */
+#nys{
+ display: flex;
+ flex-wrap: wrap;
+ justify-content: space-around;
+ gap:20px;
+}
+#nys .item{
+    border: 1px solid #544e4ec5;
+    box-shadow: 0 26px 58px 0 rgba(27, 23, 23, 0.503), 0 5px 14px 0 rgba(57, 52, 52, 0.137);
+    width:20%;
+    position: relative;
+}
+#nys p{
+    position: absolute;
+    top:0;
+    left: 0;
+    margin-top:0;
+    padding: 5px;
+    background: rgba(84, 84, 77, 0.644);
+    color: white;
+}
+#nys h3{
+    background-color: orange;
+    color: white;
+    margin-bottom: 0px;
+    padding: 5px;
+    text-align: center;
+    font-size: 14px;
+}
+#nys .item img{
+    width:100%;
+}
+#conAI{
+    display: flex;
+    flex-wrap: wrap;
+    width:100%;
+    gap:30px;
+    padding: 20px;
+}
+#conAI .img-ai{
+    width:53%;
+    height: 80%;
+}
+#conAI .text-ai{
+    width: 30%;
+}
+#conAI .img-ai img{
+    width:100%;
+}
+.text-ai{
+    height: 100%;
+    font-size: 22px;
+}
+.text-ai h3{
+    margin: 0px;
+}
+.foot{
+    text-align: center;
+    background: rgb(47, 47, 223);
+    color: white;
+    padding: 10px;
+    margin-bottom: 0px;
+}
+
+
+
+
